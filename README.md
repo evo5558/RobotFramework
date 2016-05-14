@@ -1,0 +1,2 @@
+# RobotFramework
+Mağaza Açılış
